@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaining clients and work!
 - 🌱 I’m currently learning Golang! It's been fun!
 - 💞️ I’m looking to collaborate on anything really. I want to get better at my craft.
-- 📫 How to reach me https://michael.nunez.io
+- 📫 How to reach me either at https://michael.nunez.io or https://giobytes.io
 - ⚡ Fun fact: ...
 
 <!---
